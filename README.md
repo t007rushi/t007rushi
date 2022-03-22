@@ -1,6 +1,6 @@
 - 👋 Hi, I Rushikesh Prashant Tarapure
-- 👀I'm interested in Data Science(ML and analytics), django backend development also in data engineering field
-- 🌱I'm currently pursuing iNeurons MLDL course
+- 👀I'm interested Frontend(React) development and aiming for full stack MEN learning , also django backend development  
+- 🌱I'm currently pursuing NEOG CAMP Advance FrontEnd BootCamp for upskilling myself
 
 
 <!---
